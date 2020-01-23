@@ -1,6 +1,6 @@
 # new-samp-callbacks
-New SA-MP callbacks
 
+New SA-MP callbacks
 Callbacks:
 
 	    OnPlayerPause(playerid)
